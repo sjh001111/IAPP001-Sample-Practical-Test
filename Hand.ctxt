@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hand
+comment1.params=
+comment1.target=Hand()
+comment2.params=
+comment2.target=java.util.LinkedList\ getCards()
+comment3.params=card
+comment3.target=void\ add(Card)
+comment4.params=hand
+comment4.target=void\ add(java.util.LinkedList)
+comment5.params=
+comment5.target=Card\ draw()
+comment6.params=
+comment6.target=void\ clear()
+comment7.params=
+comment7.target=int\ size()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

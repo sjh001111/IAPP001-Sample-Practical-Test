@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=
+comment1.target=void\ shuffle()
+comment2.params=
+comment2.target=boolean\ snap()
+comment3.params=
+comment3.target=boolean\ empty()
+comment4.params=
+comment4.target=void\ show()
+numComments=5

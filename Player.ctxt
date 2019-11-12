@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Card\ draw()
+comment4.params=card
+comment4.target=void\ add(Card)
+comment5.params=cards
+comment5.target=void\ add(java.util.LinkedList)
+comment6.params=
+comment6.target=java.util.LinkedList\ getCards()
+comment7.params=
+comment7.target=void\ fold()
+comment8.params=
+comment8.target=int\ size()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
